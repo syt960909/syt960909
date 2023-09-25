@@ -17,7 +17,7 @@ In the overview below you will find my most recent research project:
 
 **Hierarchical marker gene selection for scRNA-seq data** \
 Invited talk at the [2023 Gut Cell Atlas Crohn's Disease Convening](https://helmsleytrust.org/our-focus-areas/crohns-disease/crohns-disease-therapeutics/gut-cell-atlas/)\
-Paper In Progress • Code Coming Soon\
+Paper In Progress • [Code](https://github.com/syt960909/Hierarchical-Maker-Genes-Selection-for-scRNA-seq-Data)\
 Languages & Technologies: `R`, `Python`, `Seurat` \
 <br/>
 
